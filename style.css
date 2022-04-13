@@ -1,0 +1,35 @@
+.navbar-brand img {
+    border-radius: 20px;
+    background: transparent;
+}
+
+.navbar-brand {
+    margin-right: 0;
+}
+
+.btn {
+    margin: 0rem 0rem 0rem .5rem;
+}
+
+.card {
+    margin-top: 1rem;
+}
+
+.card:hover {
+    opacity: 0.7;
+}
+
+.jas {
+    font-size: large;
+    font-weight: bold;
+    margin: .3rem 0rem 0rem 0rem;
+    text-align: center
+}
+
+.fu {
+    color: white;
+}
+
+.ko {
+    margin: auto;
+}
